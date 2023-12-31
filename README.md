@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/Indresh535?logo=github&style=for-th
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubusername" alt="tropys-earned" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubusername&show_icons=true&locale=en&layout=compact" alt="top-languages-used" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indresh535&show_icons=true&locale=en&layout=compact" alt="top-languages-used" /></p>
 
 ### Skills
 
