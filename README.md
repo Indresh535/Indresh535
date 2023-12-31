@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/Indresh535?logo=github&style=for-th
 [![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=indresh535&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]
 
 <a href="https://github.com/Indresh535" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indresh535&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Indresh535&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" ></a>
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Indresh535/Vuexy-Complete-Admin-Project-Setup" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Indresh535&repo=Vuexy-Complete-Admin-Project-Setup&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
