@@ -15,7 +15,12 @@ Web development is not just about coding; It's about creating a digital experien
 * ⚡  anything else
 
 <a href="https://www.github.com/Indresh535" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Indresh535?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Indresh535?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="followers"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubusername" alt="tropys-earned" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubusername&show_icons=true&locale=en&layout=compact" alt="top-languages-used" /></p>
 
 ### Skills
 
