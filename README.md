@@ -33,6 +33,8 @@ Web development is not just about coding; It's about creating a digital experien
 <br/>
 
 
+
+
 [//]: # ( ==================================== Skills =====================================================================================)
 
 <div class="skills">
@@ -134,18 +136,24 @@ Web development is not just about coding; It's about creating a digital experien
 <br/>
 
 
-[//]: # ( ==================================== Tropys Earned =====================================================================================)
+
+[//]: # ( ==================================== Trophys Earned =====================================================================================)
 
 <div>
-    <h1><b>Tropys Earned</b></h1>
-    <p align="left"> 
+    <h1><b>Trophy Earned</b></h1>
+    <p> 
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=indresh535" alt="tropys-earned-lists" />
-        </a>     
+            <img src="https://github-profile-trophy.vercel.app/?username=indresh535&row=2&column=4&theme=dark_lover" alt="tropys-earned-lists" />
+        </a>  
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=indresh535&show_icons=true&hide_border=true&bg_color=1c1917&text_color=ffffff&locale=en&layout=compact" width="420px" alt="most-languages-used" />
+        </a>  
     </p>
 </div>
 
 <br/>
+
+
 
 
 [//]: # ( ==================================== My GitHub Stats =====================================================================================)
@@ -168,9 +176,9 @@ Web development is not just about coding; It's about creating a digital experien
 [//]: # ( ==================================== Github Commits Graph =====================================================================================)
 
 <div>    
-    <h1><b>Github Commits Graph</b></h1>
+    <h1><b>GitHub Commits Graph</b></h1>
     <p>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=indresh535&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" 
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=indresh535&bg_color=1c1917&color=fff&line=0891b2&point=f7f7f7&area=true&hide_border=true" 
         alt="github-commits-graph" />
     </p>
 </div>
@@ -178,36 +186,74 @@ Web development is not just about coding; It's about creating a digital experien
 <br/>
 
 
-[//]: # ( ==================================== Top Languages Used =====================================================================================)
 
-<div>
-    <h1><b>Top Languages Used</b></h1>
-    <p>
-        <a href="https://github.com/Indresh535" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indresh535&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top-Languages"/>         </a>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=indresh535&show_icons=true&locale=en&layout=compact" alt="most-languages-used" />
+
+
+[//]: # ( ==================================== Follow Me =====================================================================================)
+
+<div align="center">       
+    <h1><b>Follow Me</b></h1>
+    <p>        
+        <a href="https://my-portfolio-delta-seven-29.vercel.app" target="_blank" rel="noreferrer"> 
+            <picture> 
+                <source media="(prefers-color-scheme: dark)" srcset="https://p.kindpng.com/picc/s/238-2384305_portfolio-text-png-transparent-png.png" /> 
+                <source media="(prefers-color-scheme: light)" srcset="https://p.kindpng.com/picc/s/238-2384305_portfolio-text-png-transparent-png.png" /> 
+                <img src="https://p.kindpng.com/picc/s/238-2384305_portfolio-text-png-transparent-png.png" width="32" height="32" alt="my-portfolio"/> 
+            </picture> 
+        </a> 
+        <a href="https://www.github.com/Indresh535" target="_blank" rel="noreferrer"> 
+            <picture> 
+                <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/9919?s=280&v=4" /> 
+                <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" /> 
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="github"/> 
+            </picture> 
+        </a> 
+        <a href="https://www.linkedin.com/in/indresh-2208891a6" target="_blank" rel="noreferrer"> 
+            <picture> 
+                <source media="(prefers-color-scheme: dark)" srcset="https://downloadr2.apkmirror.com/wp-content/uploads/2021/04/30/6074754fb2685.png"/> 
+                <source media="(prefers-color-scheme: light)" srcset="https://downloadr2.apkmirror.com/wp-content/uploads/2021/04/30/6074754fb2685.png" /> 
+                <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2021/04/30/6074754fb2685.png" width="32" height="32" alt="linkedin"/> 
+            </picture> 
+        </a>          
+        <a href="https://codesandbox.io/u/indresh535" target="_blank" rel="noreferrer"> 
+            <picture> 
+                <source media="(prefers-color-scheme: dark)" srcset="https://www.iconbolt.com/preview/facebook/radix-icons/codesandbox-logo.svg" /> 
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> 
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" alt="codesandbox"/> 
+            </picture> 
+        </a> 
     </p>
 </div>
 
 <br/>
 
 
-[//]: # ( ==================================== Top Repositories =====================================================================================)
 
-<div width="100%" align="center">
-    <h1><b>Top Repositories</b></h1>
-    <a href="https://github.com/Indresh535/Vuexy-Complete-Admin-Project-Setup" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Indresh535&repo=Vuexy-Complete-Admin-Project-Setup&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt='top-1-repository'/>
-    </a>
+
+
+
+<!---
+
+[//]: # ( ==================================== Top Languages Used =====================================================================================)
+
+<div>
+    <h1><b>Top Languages Used</b></h1>
+    <p>
+        <a href="https://github.com/Indresh535" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indresh535&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top-Languages"/>         </a>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=indresh535&show_icons=true&bg_color=1c1917&text_color=ffffff&locale=en&layout=compact" alt="most-languages-used" />
+    </p>
 </div>
 
 <br/>
 
 
-[//]: # ( ==================================== Social =====================================================================================)
 
-<div class="socials">       
-    <h1><b>Socials</b></h1>
-    <p align="left"> 
+
+[//]: # ( ==================================== Follow Me =====================================================================================)
+
+<div>       
+    <h1><b>Follow Me</b></h1>
+    <p> 
         <a href="https://www.codepen.io/codepen" target="_blank" rel="noreferrer"> 
             <picture> 
                 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> 
@@ -295,8 +341,37 @@ Web development is not just about coding; It's about creating a digital experien
     </p>
 </div>
 
+<br/>
+
+
+
+
+
+
+
+
+[//]: # ( ==================================== Top Repositories =====================================================================================)
+
+
+
+<div>
+    <h1><b>Top Repositories</b></h1>
+    <p align="left">        
+        <a href="https://github.com/Indresh535/Vuexy-Complete-Admin-Project-Setup">
+            <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Indresh535&repo=Vuexy-Complete-Admin-Project-Setup&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt='top-1-repository'/>
+        </a>
+        <a href="https://github.com/Indresh535/Vuexy-Complete-Admin-Project-Setup">
+            <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Indresh535&repo=ShipDetectionFlask&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt='top-1-repository'/>
+        </a>
+    </p>
+</div>
 
 <br/>
+
+
+
+
+
 
 [//]: # ( ==================================== Support Me =====================================================================================)
 
@@ -315,3 +390,7 @@ Web development is not just about coding; It's about creating a digital experien
         </li>
     </ul>
 </div>
+
+
+
+-->
