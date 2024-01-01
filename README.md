@@ -146,7 +146,7 @@ Web development is not just about coding; It's about creating a digital experien
             <img src="https://github-profile-trophy.vercel.app/?username=indresh535&row=2&column=4&theme=dark_lover" alt="tropys-earned-lists" />
         </a>  
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=indresh535&show_icons=true&hide_border=true&bg_color=1c1917&text_color=ffffff&locale=en&layout=compact" width="420px" alt="most-languages-used" />
+            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=indresh535&show_icons=true&hide_border=true&bg_color=1c1917&text_color=ffffff&locale=en&layout=compact" width="380px" alt="most-languages-used" />
         </a>  
     </p>
 </div>
