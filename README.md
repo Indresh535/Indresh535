@@ -147,13 +147,13 @@ Web development is not just about coding; It's about creating a digital experien
               <img src="https://git-scm.com/images/logo@2x.png" width="80" height="80" alt="Git" />
           </a>  
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-              <img src="https://p7.hiclipart.com/preview/852/593/318/using-docker-developing-and-deploying-software-with-containers-application-software-software-deployment-computer-software-github.jpg" width="80" height="80" alt="Docker" />
-          </a>             
-          <a href="https://arduino.cc" target="_blank" rel="noreferrer">
-            <img src="https://png.pngtree.com/png-vector/20220226/ourmid/pngtree-logo-arduino-png-image_4465472.png" width="80" height="80" alt="Arduino" />
-          </a>
+              <img src="https://w7.pngwing.com/pngs/237/269/png-transparent-docker-logo-docker-logo-kubernetes-software-deployment-engineer-logo-logo-area-line.png" width="80" height="80" alt="Docker" />
+          </a>                
           <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
             <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-photoshop-5562348-4642752.png" width="80" height="80" alt="Photoshop" />
+          </a>
+          <a href="https://arduino.cc" target="_blank" rel="noreferrer">
+            <img src="https://png.pngtree.com/png-vector/20220226/ourmid/pngtree-logo-arduino-png-image_4465472.png" width="80" height="80" alt="Arduino" />
           </a>
      </p>
 </div>
