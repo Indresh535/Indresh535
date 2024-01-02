@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/uc?id=1wiqoYJ7rpOpzaMtRARsPKKk0kIEHg_km" width="100%" height="350px" alt="full-stack-developer"/>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Indresh
 ===============================================================================================================================
 
@@ -7,9 +9,9 @@ Full Stack Web Developer
 Web development is not just about coding; It's about creating a digital experience that leaves a lasting impression.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://https://my-portfolio-delta-seven-29.vercel.app/)
+* 🖥️  See my portfolio at 👉[MyPortfolio](http://https://my-portfolio-delta-seven-29.vercel.app/)
 * ✉️  You can contact me at [indreshindresh535@gmail.com](mailto:indreshindresh535@gmail.com)
-* 🚀  I'm currently working on [SOC Experts](http://https://www.socexperts.com/)
+* 🚀  I'm currently working at [SOC Experts](http://https://www.socexperts.com/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Project
 * ⚡  anything else
@@ -40,95 +42,118 @@ Web development is not just about coding; It's about creating a digital experien
 <div class="skills">
     <h1><b>Skills</b></h1>
     <p align="left">
-          <a href="https://react.dev" target="_blank" rel="noreferrer">
-            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-9294867-7578010.png" width="36" height="36" alt="Redux" />
-          </a>  
-          <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-5645899-4695757.png" width="36" height="36" alt="Redux" />
-          </a>
-          <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
-              <img src="https://nyesteventuretech.com/images/asp.png" width="36" height="36" alt="asp-dot-net" />
-          </a>
+         <h4><b> Core </b></h4>  
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
               <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" 
-                width="36" height="36" alt="C#" />
-          </a>
-          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-              <img src="https://git-scm.com/images/logo@2x.png" width="36" height="36" alt="Git" />
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png" width="36" height="36" alt="JavaScript" />
+                 width="80" height="80" alt="C#" />
+          </a>        
+         <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
+            <img src="https://info-comp.ru/wp-content/uploads/images/stories/kartinki2/What_is_SQL_1.jpg" width="80" height="80" alt="sql" />
+          </a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png" width="80" height="80" alt="JavaScript" />
           </a>
           <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-python-9294858-7578001.png" width="36" height="36" alt="Python" />
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-python-9294858-7578001.png" width="80" height="80" alt="Python" />
+          </a> 
+          <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+            <img src="https://www.pngitem.com/pimgs/m/97-975942_linux-penguin-logo-png-linux-logo-png-transparent.png" width="80" height="80" alt="Linux" />
+          </a>  
+        <a href="https://www.mongodb.com/nosql-explained" target="_blank" rel="noreferrer">
+            <img src="https://busi.eu/app/uploads/2020/02/NoSQL.jpg" width="80" height="80" alt="nosql" />
+          </a> 
+        <br/>
+        <h4><b> FRONTEND </b></h4>
+        <a href="https://react.dev" target="_blank" rel="noreferrer">
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-9294867-7578010.png" width="80" height="80" alt="React" />
+          </a>        
+          <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-5645899-4695757.png" width="80" height="80" alt="Redux" />
+          </a>              
+          <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
+              <img src="https://nyesteventuretech.com/images/asp.png" width="80" height="80" alt="asp-dot-net" />
           </a>
-          <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-php-9294883-7578026.png" width="36" height="36" alt="PHP" />
-          </a>
+         <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+            <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" width="80" height="80" alt="next-js" />
+          </a> 
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png" width="36" height="36" alt="HTML5" />
-          </a>
-          <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-            <img src="https://static.vecteezy.com/system/resources/previews/022/362/579/original/3d-css-file-icon-illustration-png.png" width="36" height="36" alt="CSS3" />
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png" width="80" height="80" alt="HTML5" />
+          </a>  
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+            <img src="https://static.vecteezy.com/system/resources/previews/022/362/579/original/3d-css-file-icon-illustration-png.png" width="80" height="80" alt="CSS3" />
           </a>
           <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn3d.iconscout.com/3d/free/preview/free-sass-9294876-7578019.png" width="36" height="36" alt="Sass" />
+            <img src="https://cdn3d.iconscout.com/3d/free/preview/free-sass-9294876-7578019.png" width="80" height="80" alt="Sass" />
           </a>
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://w7.pngwing.com/pngs/771/978/png-transparent-tailwind-css-css-framework-customizable-low-level-tailwind-logo-3d-icon.png" width="36" height="36" alt="TailwindCSS" />
+            <img src="https://w7.pngwing.com/pngs/771/978/png-transparent-tailwind-css-css-framework-customizable-low-level-tailwind-logo-3d-icon.png" width="80" height="80" alt="TailwindCSS" />
           </a>
           <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-            <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" width="36" height="36" alt="Bootstrap" />
+            <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" width="80" height="80" alt="Bootstrap" />
           </a>
           <a href="https://mui.com/" target="_blank" rel="noreferrer">
-            <img src="https://mui.com/static/icons/512x512.png" width="36" height="36" alt="Material UI" />
+            <img src="https://mui.com/static/icons/512x512.png" width="80" height="80" alt="Material UI" />
           </a>
           <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
             <img src="https://p1.hiclipart.com/preview/518/449/146/react-logo-webpack-babel-javascript-npm-github-nodejs-front-and-back-ends-png-clipart.jpg" 
-              width="36" height="36" alt="Webpack" />
+               width="80" height="80" alt="Webpack" />
           </a>
           <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/free-babel-2-1175262.png" width="36" height="36" alt="Babel" />
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-babel-2-1175262.png" width="80" height="80" alt="Babel" />
           </a>
           <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://logospng.org/wp-content/uploads/vite-js-logo.png" width="36" height="36" alt="Vite" />
+            <img src="https://miro.medium.com/v2/resize:fit:1184/1*l5RrUzGOspiXNu6WTPddhA@2x.png" width="80" height="80" alt="Vite" />
           </a>
-          <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-            <img src="https://www.technoligent.com/images/nodejs/node-js-development-services.png" width="36" height="36" alt="NodeJS" />
+        <br/>
+        <h4><b> BACKEND AND DATABASE </b></h4>      
+         <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+            <img src="https://banner2.cleanpng.com/20180526/usu/kisspng-microsoft-sql-server-sql-server-management-studio-5b0a14557259a0.9917237415273872214684.jpg" width="80" height="80" alt="Microsoft-SQL-server" />
+          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img src="https://w7.pngwing.com/pngs/101/590/png-transparent-mysql-database-relational-database-sql-mysql-logo-database-management-3d-icon.png" width="80" height="80" alt="MySQL" />
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+            <img src="https://www.technoligent.com/images/nodejs/node-js-development-services.png" width="80" height="80" alt="NodeJS" />
           </a>
           <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-            <img src="https://geekflare.com/wp-content/uploads/2023/01/expressjs.png" width="36" height="36" alt="Express" />
-          </a>
+            <img src="https://geekflare.com/wp-content/uploads/2023/01/expressjs.png" width="80" height="80" alt="Express" />
+          </a>                      
+          <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-php-9294883-7578026.png" width="80" height="80" alt="PHP" />
+          </a>  
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://p7.hiclipart.com/preview/322/738/442/logo-brand-product-design-mongodb-inc-design.jpg" width="36" height="36" alt="MongoDB" />
+            <img src="https://p7.hiclipart.com/preview/322/738/442/logo-brand-product-design-mongodb-inc-design.jpg" width="80" height="80" alt="MongoDB" />
           </a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://w7.pngwing.com/pngs/101/590/png-transparent-mysql-database-relational-database-sql-mysql-logo-database-management-3d-icon.png" width="36" height="36" alt="MySQL" />
           </a>
           <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://toppng.com//public/uploads/preview/logo-google-firebase-logo-11563634544aqdbqci3yp.png" width="36" height="36" alt="Firebase" />
+            <img src="https://toppng.com//public/uploads/preview/logo-google-firebase-logo-11563634544aqdbqci3yp.png" width="80" height="80" alt="Firebase" />
           </a>
           <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-            <img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" width="36" height="36" alt="Flask" />
+            <img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" width="80" height="80" alt="Flask" />
           </a>
           <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
             <img src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg"
-              width="36" height="36" alt="Django" />
+              width="80" height="80" alt="Django" />
           </a>
+        <br/>
+        <h4><b> CLOUD </b></h4>                    
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-amazon-web-services-8074662-6507782.png" width="36" height="36" alt="Amazon Web Services" />
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-amazon-web-services-8074662-6507782.png" width="80" height="80" alt="Amazon Web Services" />
           </a>
-          <a href="https://arduino.cc" target="_blank" rel="noreferrer">
-            <img src="https://png.pngtree.com/png-vector/20220226/ourmid/pngtree-logo-arduino-png-image_4465472.png" width="36" height="36" alt="Arduino" />
-          </a>
+                <br/>
+        <h4><b> OTHER </b></h4>             
+         <a href="https://en.wikipedia.org/wiki/DevOps" target="_blank" rel="noreferrer">
+            <img src="https://miro.medium.com/v2/resize:fit:512/0*HsIkOkCv4XUCW5Sz.png" width="80" height="80" alt="devops" />
+          </a>  
+          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+              <img src="https://git-scm.com/images/logo@2x.png" width="80" height="80" alt="Git" />
+          </a>  
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-              <img src="https://p7.hiclipart.com/preview/852/593/318/using-docker-developing-and-deploying-software-with-containers-application-software-software-deployment-computer-software-github.jpg" width="36" height="36" alt="Docker" />
-          </a>
-          <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-            <img src="https://www.pngitem.com/pimgs/m/97-975942_linux-penguin-logo-png-linux-logo-png-transparent.png" width="36" height="36" alt="Linux" />
+              <img src="https://p7.hiclipart.com/preview/852/593/318/using-docker-developing-and-deploying-software-with-containers-application-software-software-deployment-computer-software-github.jpg" width="80" height="80" alt="Docker" />
+          </a>             
+          <a href="https://arduino.cc" target="_blank" rel="noreferrer">
+            <img src="https://png.pngtree.com/png-vector/20220226/ourmid/pngtree-logo-arduino-png-image_4465472.png" width="80" height="80" alt="Arduino" />
           </a>
           <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-photoshop-5562348-4642752.png" width="36" height="36" alt="Photoshop" />
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-photoshop-5562348-4642752.png" width="80" height="80" alt="Photoshop" />
           </a>
      </p>
 </div>
