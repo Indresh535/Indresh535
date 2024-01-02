@@ -143,10 +143,10 @@ Web development is not just about coding; It's about creating a digital experien
     <h1><b>Trophy Earned</b></h1>
     <p> 
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=indresh535&row=2&column=4&theme=dark_lover" alt="tropys-earned-lists" />
+            <img src="https://github-profile-trophy.vercel.app/?username=indresh535&row=2&column=4&theme=dark_lover" width="45%" height="300px" alt="tropys-earned-lists" />
         </a>  
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=indresh535&show_icons=true&hide_border=true&bg_color=1c1917&text_color=ffffff&locale=en&layout=compact" width="380px" alt="most-languages-used" />
+            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=indresh535&show_icons=true&hide_border=true&bg_color=1c1917&text_color=ffffff&locale=en&layout=compact" width="45%" height="300px" alt="most-languages-used" />
         </a>  
     </p>
 </div>
@@ -162,10 +162,11 @@ Web development is not just about coding; It's about creating a digital experien
     <h1><b>My GitHub Stats</b></h1>
     <p>
       <a href="http://www.github.com/Indresh535">
-            <img src="https://github-readme-stats.vercel.app/api?username=Indresh535&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub-stats"         />
+            <img src="https://github-readme-stats.vercel.app/api?username=Indresh535&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" width="45%" height="300px" alt="GitHub-stats" />
       </a>          
       <a href="http://www.github.com/Indresh535">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indresh535&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="github-streak-stats" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indresh535&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+                 width="45%" height="300px" alt="github-streak-stats" />
       </a>
     </p>
 </div>
