@@ -14,7 +14,6 @@ Web development is not just about coding; It's about creating a digital experien
 * 🚀  I'm currently working at [SOC Experts](http://https://www.socexperts.com/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Project
-* ⚡  anything else
 
 
 <br/>
