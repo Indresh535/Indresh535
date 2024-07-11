@@ -14,7 +14,7 @@ Web development is not just about coding; It's about creating a digital experien
 * 🖥️  See my portfolio at 👉[MyPortfolio](http://https://my-portfolio-delta-seven-29.vercel.app/)
 * ✉️  You can contact me at [indreshindresh535@gmail.com](mailto:indreshindresh535@gmail.com)
 * 🚀  I'm currently working at [SOC Experts](http://https://www.socexperts.com/)
-* 🧠  I'm learning React
+* 🧠  I'm learning Cyber Security 
 * 🤝  I'm open to collaborating on Project
 
 
